@@ -62,7 +62,7 @@ class MainActivity : Activity() {
         }, matchWrap())
 
         val banner = AdView(this).apply {
-            adUnitId = "ca-app-pub-3940256099942544/9214589741"
+            adUnitId = "ca-app-pub-7792140336662200/6111181924"
             setAdSize(AdSize.BANNER)
         }
         adView = banner
